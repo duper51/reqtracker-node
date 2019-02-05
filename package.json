@@ -1,0 +1,27 @@
+{
+  "name": "reqtracker-node",
+  "version": "1.0.0",
+  "description": "Tracks failed requests, successful requests, and TTFB/TTLB info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duper51/reqtracker-node.git"
+  },
+  "keywords": [
+    "request",
+    "tracker",
+    "stats"
+  ],
+  "author": "duper51 (https://github.com/duper51)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duper51/reqtracker-node/issues"
+  },
+  "homepage": "https://github.com/duper51/reqtracker-node#readme",
+  "dependencies": {
+    "requests": "^0.2.2"
+  }
+}
